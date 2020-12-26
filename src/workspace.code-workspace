@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\IT Club"
+		},
+		{
+			"path": "..\\..\\..\\Верстка\\Для Чики"
+		},
+		{
+			"path": "..\\..\\..\\Sabe"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Для Чики"
+	}
+}
